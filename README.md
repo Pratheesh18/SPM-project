@@ -1,6 +1,6 @@
 ## Group Id : SER_095
 
-## Project Name : Apple Event Planners (Event Management Systam ) 
+## Project Name : Apple Event Planners (Event Management System ) 
 
 ## Group Details : 
 
