@@ -20,8 +20,8 @@ and etc . We developed this as a web based application .
 We used JSP servlet to build this system . It is based on the Java Language . It is based on  MVC architecture (Model View Controller) architectural style . 
 Java servlets are java classes that are designed to respond to HTTP requests in the context of a web application . 
 
-IDE : Eclipse 
-Other tools : 
+IDE : Eclipse <br />
+Other tools : <br />
 1.SonarQube <br />
 2.Selenium  <br />
 3.Azure Boards
