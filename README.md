@@ -22,8 +22,8 @@ Java servlets are java classes that are designed to respond to HTTP requests in 
 
 IDE : Eclipse 
 Other tools : 
-1.SonarQube
-2.Selenium
+1.SonarQube <br />
+2.Selenium  <br />
 3.Azure Boards
 
 ## Run The Project
